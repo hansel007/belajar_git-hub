@@ -1,0 +1,2 @@
+- Memperdalam git
+- Memperdalam python
